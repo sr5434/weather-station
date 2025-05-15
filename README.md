@@ -1,5 +1,7 @@
 # Weather Station
 ![](https://raw.githubusercontent.com/sr5434/weather-station/main/circuit.png)
+
+
 A simple weather station that can measure things like temperature, humidity, and air pressure. There is also a slide switch to switch between imperial and metric measurements.
 
 ## Components
